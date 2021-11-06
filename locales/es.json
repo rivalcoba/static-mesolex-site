@@ -1,0 +1,56 @@
+{
+    "welcome": "Bienvenido",
+    "navBar":{
+        "home":"Inicio",
+        "topicIndex":"Índice temático",
+        "languagesIndex":"Índice de lenguas",
+        "about":"Acerca de",
+        "help":"Ayuda"
+    },
+    "footer":{
+        "credits":"Créditos",
+        "terms":"Términos y condiciones" ,
+        "dev":"Desarrollado por"
+    },
+    "home":{
+        "title":"Bienvenido a Mesolex",
+        "p1":"Recursos lexicosemánticos de lenguas mesoamericanas",
+        "ilustration":"Ilustración: Inocencio Jiménez"
+    },
+    "languageIndex":{
+        "amuzgoan":{
+            "title":"AMUZGO",
+            "preText":"Las tres lenguas amuzgas ",
+            "text":" se hablan en una pequeña región de Guerrero y Oaxaca. Dentro de las lenguas otomangües orientales, existe una relación cercana con el mixteco‑cuicateco y el triqui."
+        },
+        "nahuatl":{
+            "title":"NAHUATL",
+            "preText":"Existen aproximadamente 30 lenguas náhuatl ",
+            "text":" que se hablan desde Durango, pasando por el oriente y occidente de México y hasta El Salvador. Este es el grupo más extenso de las lenguas utoaztecas."
+        },
+        "mayan":{
+            "title":"MAYAN",
+            "preText":"Dos lenguas mayas ",
+            "text":" se hablan en el norte de Veracruz (huasteca) mientras que la mayoría (30) predominan en el sur de México, Guatemala y Belice. Representan el grupo de lenguas mesoamericanas más documentadas."
+        },
+        "mixtec":{
+            "title":"MIXTEC",
+            "preText":"Las aproximadamente 50 lenguas mixtecanas ",
+            "text":" están relacionadas con el Cuicateco, el Triqui y, menos cercano, el Amuzgo. Se habla en Oaxaca, Guerrero y Puebla. Son ampliamente diversificadas y a menudo no entendible entre si."
+        },
+        "totonacan":{
+            "title":"TOTONACAN",
+            "preText":"Las lenguas totonacanas se dividen entre (a) Totonaco (10 lenguas); y (b) Tepehua (3 lenguas). Totonacano ",
+            "text":" manifiesta características lingüísticas mesoamericanas aunque su relación histórica a otras lenguas regionales (p. ej., el Mixe‑Zoque) no está clara."
+        },
+        "triqui":{
+            "title":"TRIQUI",
+            "preText":"Lenguas triquis ",
+            "text":", relacionados con lenguas mixtecas y cuicatecas, son tres lenguas distintas habladas en tres comunidades en el noroeste de Oaxaca. Se caracterizan por una fonología tonal y segmental bastante compleja."
+        }
+    },
+    "help":{
+        "content":"<main class=''> <div class='contenedor-general-rebasado'> <div class='contenedor-general '> <div class='contenedor-columnas '> <div class='contenedor-4-col contenedor-titulo-estaticas '> <h1 class='titulo-estaticas ' id='help'>Help</h1> </div><div class='contenedor-8-col m-top-2rem '> <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rerum neque optio vero exercitationem dicta rem ut quas totam cum similique quod ab hic nulla, autem error quo dolor amet!</p><p>Nihil aperiam aspernatur velit? Omnis dolorem cum vel? Eius non ut enim nobis! Iste est amet dolore placeat possimus sunt, praesentium maxime asperiores natus, nam quisquam. Voluptate totam dolores magni? </p><p>Distinctio cum vitae maiores necessitatibus deserunt, voluptatum iste sequi debitis beatae. Nemo aperiam quasi doloribus facilis maiores minus modi, nesciunt similique delectus debitis adipisci perferendis tempore consequatur distinctio incidunt in.</p><h2 class='titulo-estaticas'>Lorem ipsum dolor sit amet consectetur.</h2> <p>Eaque perferendis labore deserunt placeat corrupti accusantium itaque voluptas ullam blanditiis error, sed repellendus impedit exercitationem expedita sit, veritatis nisi eius ducimus laudantium voluptatibus rerum est? Id natus molestiae laudantium!</p><p>Ad similique odio accusamus et. Inventore blanditiis explicabo ut minima similique debitis, nam ipsam illum rerum nulla facilis magni praesentium officia tempore. Facilis quis atque dolor fugiat iure suscipit voluptatum?</p><p>Aliquam dolorum ullam minus cumque, recusandae maxime! Fuga repellendus magnam tempora iure. Non nisi fugiat ad doloremque distinctio praesentium quaerat perferendis, fugit molestias dolore, accusantium nulla? Doloremque accusantium quidem aperiam.</p><h3 class='titulo-estaticas'>Lorem ipsum dolor sit amet consectetur.</h3> <p>Aperiam repellat aliquam eius repudiandae, minus harum, voluptatum quis iure ipsa blanditiis at doloremque vitae eum perferendis tempore, aut delectus necessitatibus cumque vel. Totam earum corrupti dolor distinctio cum nisi.</p><p>Sint magnam, reprehenderit repellendus fugit aspernatur fugiat ad debitis. At, veritatis quod autem voluptatem cumque ducimus necessitatibus nesciunt. Expedita fuga accusamus fugit praesentium sed magni quod earum quia at explicabo.</p><p>Deleniti recusandae quisquam atque hic culpa, ratione itaque eaque iusto quod omnis error ex dolor cupiditate voluptate debitis corporis necessitatibus consectetur accusamus possimus? Obcaecati possimus quibusdam necessitatibus nostrum tempora provident?</p><p>Dolorem ullam aliquid commodi deserunt pariatur exercitationem quod quisquam, dicta id a, placeat optio, voluptatem nisi molestias? Porro excepturi eaque itaque ea quas, possimus odit fuga ullam vero reprehenderit voluptate.</p></div></div><div class='contenedor-columnas '> <div class='contenedor-4-col contenedor-titulo-estaticas '> <h1 class='titulo-estaticas ' id='about-mesolex'>Prueba 2</h1> </div><div class='contenedor-8-col m-top-2rem '> <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rerum neque optio vero exercitationem dicta rem ut quas totam cum similique quod ab hic nulla, autem error quo dolor amet!</p><p>Nihil aperiam aspernatur velit? Omnis dolorem cum vel? Eius non ut enim nobis! Iste est amet dolore placeat possimus sunt, praesentium maxime asperiores natus, nam quisquam. Voluptate totam dolores magni? </p><p>Distinctio cum vitae maiores necessitatibus deserunt, voluptatum iste sequi debitis beatae. Nemo aperiam quasi doloribus facilis maiores minus modi, nesciunt similique delectus debitis adipisci perferendis tempore consequatur distinctio incidunt in.</p><h2 class='titulo-estaticas'>Lorem ipsum dolor sit amet consectetur.</h2> <p>Eaque perferendis labore deserunt placeat corrupti accusantium itaque voluptas ullam blanditiis error, sed repellendus impedit exercitationem expedita sit, veritatis nisi eius ducimus laudantium voluptatibus rerum est? Id natus molestiae laudantium!</p><p>Ad similique odio accusamus et. Inventore blanditiis explicabo ut minima similique debitis, nam ipsam illum rerum nulla facilis magni praesentium officia tempore. Facilis quis atque dolor fugiat iure suscipit voluptatum?</p><p>Aliquam dolorum ullam minus cumque, recusandae maxime! Fuga repellendus magnam tempora iure. Non nisi fugiat ad doloremque distinctio praesentium quaerat perferendis, fugit molestias dolore, accusantium nulla? Doloremque accusantium quidem aperiam.</p><h3 class='titulo-estaticas'>Lorem ipsum dolor sit amet consectetur.</h3> <p>Aperiam repellat aliquam eius repudiandae, minus harum, voluptatum quis iure ipsa blanditiis at doloremque vitae eum perferendis tempore, aut delectus necessitatibus cumque vel. Totam earum corrupti dolor distinctio cum nisi.</p><p>Sint magnam, reprehenderit repellendus fugit aspernatur fugiat ad debitis. At, veritatis quod autem voluptatem cumque ducimus necessitatibus nesciunt. Expedita fuga accusamus fugit praesentium sed magni quod earum quia at explicabo.</p><p>Deleniti recusandae quisquam atque hic culpa, ratione itaque eaque iusto quod omnis error ex dolor cupiditate voluptate debitis corporis necessitatibus consectetur accusamus possimus? Obcaecati possimus quibusdam necessitatibus nostrum tempora provident?</p><p>Dolorem ullam aliquid commodi deserunt pariatur exercitationem quod quisquam, dicta id a, placeat optio, voluptatem nisi molestias? Porro excepturi eaque itaque ea quas, possimus odit fuga ullam vero reprehenderit voluptate.</p></div></div><div class='contenedor-columnas '> <div class='contenedor-4-col contenedor-titulo-estaticas '> <h1 class='titulo-estaticas ' id='about-mesolex'>Seccion 2</h1> </div><div class='contenedor-8-col m-top-2rem '> <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rerum neque optio vero exercitationem dicta rem ut quas totam cum similique quod ab hic nulla, autem error quo dolor amet!</p><p>Nihil aperiam aspernatur velit? Omnis dolorem cum vel? Eius non ut enim nobis! Iste est amet dolore placeat possimus sunt, praesentium maxime asperiores natus, nam quisquam. Voluptate totam dolores magni? </p><p>Distinctio cum vitae maiores necessitatibus deserunt, voluptatum iste sequi debitis beatae. Nemo aperiam quasi doloribus facilis maiores minus modi, nesciunt similique delectus debitis adipisci perferendis tempore consequatur distinctio incidunt in.</p><h2 class='titulo-estaticas'>Lorem ipsum dolor sit amet consectetur.</h2> <p>Eaque perferendis labore deserunt placeat corrupti accusantium itaque voluptas ullam blanditiis error, sed repellendus impedit exercitationem expedita sit, veritatis nisi eius ducimus laudantium voluptatibus rerum est? Id natus molestiae laudantium!</p><p>Ad similique odio accusamus et. Inventore blanditiis explicabo ut minima similique debitis, nam ipsam illum rerum nulla facilis magni praesentium officia tempore. Facilis quis atque dolor fugiat iure suscipit voluptatum?</p><p>Aliquam dolorum ullam minus cumque, recusandae maxime! Fuga repellendus magnam tempora iure. Non nisi fugiat ad doloremque distinctio praesentium quaerat perferendis, fugit molestias dolore, accusantium nulla? Doloremque accusantium quidem aperiam.</p><h3 class='titulo-estaticas'>Lorem ipsum dolor sit amet consectetur.</h3> <p>Aperiam repellat aliquam eius repudiandae, minus harum, voluptatum quis iure ipsa blanditiis at doloremque vitae eum perferendis tempore, aut delectus necessitatibus cumque vel. Totam earum corrupti dolor distinctio cum nisi.</p><p>Sint magnam, reprehenderit repellendus fugit aspernatur fugiat ad debitis. At, veritatis quod autem voluptatem cumque ducimus necessitatibus nesciunt. Expedita fuga accusamus fugit praesentium sed magni quod earum quia at explicabo.</p><p>Deleniti recusandae quisquam atque hic culpa, ratione itaque eaque iusto quod omnis error ex dolor cupiditate voluptate debitis corporis necessitatibus consectetur accusamus possimus? Obcaecati possimus quibusdam necessitatibus nostrum tempora provident?</p><p>Dolorem ullam aliquid commodi deserunt pariatur exercitationem quod quisquam, dicta id a, placeat optio, voluptatem nisi molestias? Porro excepturi eaque itaque ea quas, possimus odit fuga ullam vero reprehenderit voluptate.</p></div></div></main>"
+    }
+
+}

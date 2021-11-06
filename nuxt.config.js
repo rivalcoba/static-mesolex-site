@@ -1,3 +1,6 @@
+import SpanishLang from './locales/es.json'
+import EnglishLang from './locales/en.json'
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -47,5 +50,24 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+  // Internationalization Configuration
+  i18n: {
+    parsePages: true,
+    strategy: 'no_prefix',
+    detectBrowserLanguage: {
+      useCookie: true,
+      alwaysRedirect: true,
+      fallbackLocale: 'es',
+    },
+    locales: ['en', 'es'],
+    defaultLocale: 'en',
+    vueI18n: {
+      fallbackLocale: 'en',
+      messages: {
+        en: EnglishLang,
+        es: SpanishLang,
+      },
+    },
+  },
 }
