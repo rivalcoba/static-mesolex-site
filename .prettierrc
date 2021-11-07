@@ -1,5 +1,5 @@
 {
-  "semi": false,
+  "semi": true,
   "singleQuote": true,
   "traillingComma": "es5",
   "printWidth": 80

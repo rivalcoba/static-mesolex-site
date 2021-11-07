@@ -1,5 +1,4 @@
-import SpanishLang from './locales/es.json'
-import EnglishLang from './locales/en.json'
+import vueI18n from './config/i18n'
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
@@ -7,7 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'static-nuxt-site',
+    title: 'MESOLEX',
     htmlAttrs: {
       lang: 'en'
     },
@@ -17,7 +16,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'msapplication-TileColor', content: '#da532c' },
-      { name: 'theme-color', content: '#ffffff' },
+      { name: 'theme-color', content: '#ffffff' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -70,7 +69,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: ['@/assets/styles/estilos.css'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -87,7 +86,8 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    '@nuxtjs/i18n'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -104,14 +104,11 @@ export default {
       alwaysRedirect: true,
       fallbackLocale: 'es'
     },
-    locales: ['en', 'es'],
+    locales: [
+      { code: 'es', name: 'ESP' },
+      { code: 'en', name: 'ENG' }
+    ],
     defaultLocale: 'en',
-    vueI18n: {
-      fallbackLocale: 'en',
-      messages: {
-        en: EnglishLang,
-        es: SpanishLang
-      }
-    }
+    vueI18n
   }
 }
