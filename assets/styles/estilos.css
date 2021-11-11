@@ -677,6 +677,10 @@ button.btn-pagina-activa:hover {
   cursor: not-allowed;
   text-decoration: none !important;
 }
+button.btn-pagina-activa:focus {
+  outline: none !important;
+  /*ver la posibilidad de deshabilitar el tabindex al estar activo*/
+}
 button.btn-pagina-siguiente {
 }
 .contenedor-ir-a-pagina {
@@ -838,11 +842,15 @@ button.selector-lenguaje {
   align-self: stretch;
   min-width: 1.77rem;
 }
+
 button.selector-lenguaje:hover {
   color: var(--interface0) !important;
   text-decoration: none;
   font-size: 0.6666rem !important;
   font-weight: 700 !important;
+}
+button.selector-lenguaje:focus {
+  outline: 3px solid #009d9375;
 }
 button.selector-lenguaje-activo {
   /*Esta clase es para que cambie el selector e indique en que posición está (Español o Inglés)*/
@@ -856,6 +864,9 @@ button.selector-lenguaje-activo {
   align-self: stretch;
   margin-left: 0;
   min-width: 1.77rem;
+}
+button.selector-lenguaje-activo:focus {
+  outline: 3px solid #009d9375;
 }
 button.selector-lenguaje-activo:hover {
   text-decoration: none;
